@@ -1,7 +1,7 @@
 import VotingInterface from "./VotingInterface";
 
 export const metadata = {
-  title: "Vote for EVM",
+  title: "EVM - Model",
   description: "Custom metadata for this EVM voting simulation page.",
   icons: {
     icon: "/logo.jpg",

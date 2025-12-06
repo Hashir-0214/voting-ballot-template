@@ -3,7 +3,7 @@
 "use client";
 
 import React, { useState, useEffect } from "react";
-import BallotUnit from "@/components/balletUnit"; // Ensure this matches your actual filename
+import BallotUnit from "@/components/balletUnit";
 
 const ELECTION_DATA = {
   ward: {
